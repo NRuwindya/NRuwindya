@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ruwindya</h1>
 <h3 align="center">A passionate UI/UX designer</h3>
 
+<h3 align="left">Featured Project:</h3>
+<p align="left">
+  <a href="INSERT_YOUR_GAMIFIX_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Project-GamiFix_Learning_Platform-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GamiFix Backlink" />
+  </a>
+</p>
+<p>
+  <strong>GamiFix</strong> is an interactive microsite designed to master <b>Web Development</b> through gamified challenges. Explore my latest work in <b>SEO-driven e-learning</b> and <b>Interactive UX</b>.
+</p>
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nruwindya&label=Profile%20views&color=0e75b6&style=flat" alt="nruwindya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nruwindya" alt="nruwindya" /></a> </p>
