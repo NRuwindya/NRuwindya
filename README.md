@@ -8,7 +8,7 @@
   </a>
 </p>
 <p>
-  Discover an immersive, interactive <b>gamified platform</b> for learning <b>web development</b>—master <b>HTML, CSS, and JavaScript</b> while earning points, badges, and real-time feedback!
+  Discover an immersive, interactive <b>gamified platform</b> for learning <b>web development</b>. Master <b>HTML, CSS, and JavaScript</b> while earning points, badges, and real-time feedback!
 </p>
 <br>
 
