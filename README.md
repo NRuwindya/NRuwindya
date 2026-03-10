@@ -3,12 +3,12 @@
 
 <h3 align="left">Featured Project:</h3>
 <p align="left">
-  <a href="[INSERT_YOUR_GAMIFIX_URL_HERE](https://sites.google.com/iit.ac.lk/gamifix?usp=sharing)" target="_blank">
+  <a href="INSERT_YOUR_GAMIFIX_URL_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Live_Project-GamiFix_Learning_Platform-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GamiFix Backlink" />
   </a>
 </p>
 <p>
-  <strong>GamiFix</strong> is an interactive microsite designed to master <b>Web Development</b> through gamified challenges. Explore my latest work in <b>SEO-driven e-learning</b> and <b>Interactive UX</b>.
+  Discover an immersive, interactive <b>gamified platform</b> for learning <b>web development</b>—master <b>HTML, CSS, and JavaScript</b> while earning points, badges, and real-time feedback!
 </p>
 <br>
 
