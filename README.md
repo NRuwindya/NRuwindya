@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ruwindya</h1>
 <h3 align="center">A passionate UI/UX designer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nruwindya&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+</p>
+
 <h3 align="left">Featured Project:</h3>
 <p align="left">
   <a href="INSERT_YOUR_GAMIFIX_URL_HERE" target="_blank">
