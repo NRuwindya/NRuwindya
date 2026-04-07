@@ -5,17 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=nruwindya&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Featured Project:</h3>
-<p align="left">
-  <a href="INSERT_YOUR_GAMIFIX_URL_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Project-GamiFix_Learning_Platform-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GamiFix Backlink" />
-  </a>
-</p>
-<p>
-  Discover an immersive, interactive <b>gamified platform</b> for learning <b>web development</b>. Master <b>HTML, CSS, and JavaScript</b> while earning points, badges, and real-time feedback!
-</p>
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.behance.net/nruvindya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nruvindya" height="30" width="40" /></a>
